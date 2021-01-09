@@ -1,4 +1,4 @@
-package com.eka.kalkulator
+package com.Faza.kalkulator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
